@@ -731,7 +731,7 @@ st.markdown(
 <div style='text-align:center; font-size:17px;'>
 © 2026 ATS Resume Evaluator | Made by NIMISH And TEAM
     <div style='text-align:center; font-size:17px;'>  
-    Contact: +918112772610 | +916386917712
+    
         <div style='text-align:center; font-size:17px;'> 
         Email : nileshkrmish2006@gmail.com | mohdhamzakhan0101@gmail.com
         </div>
